@@ -1,5 +1,5 @@
 * {
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Brush Script MT';
 }
 
 body {
@@ -31,4 +31,5 @@ body {
   100% {
     background-position: 0% 50%;
   }
+
 }
